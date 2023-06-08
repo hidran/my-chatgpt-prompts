@@ -86,3 +86,6 @@ You have the task to create a course on udemy.com about [course topic or descrip
 1)Create an attractive title and subtitles with keywords for SEO .
 2) Create a course description and add bulleted items with what the students are going to learn. Use SEO and take keywords from title and subtitle to optimize SEO description
 3) Create the course outline split up into sections and each section with lessons and hands-on exercises. Add links to resources where to learn those lessons
+
+### 12. Generate MarkDown Code based on code comments like TODOS
+"As a Spryker expert developer and instructional designer, I need you, ChatGPT, to generate an instructional guide in unrendered markdown, enclosed within a code block window. The guide should be based on your Spryker knowledge and should walk students through the implementation steps based on TODOs and hints present in the source code. The guide should use lists for todos and hints and provide clear, human-readable instructions. Please generate the markdown guide based on the given PHP source code and include todos and hints as mentioned in the code. Once you provide the source code, I'll generate the markdown output and ask for the next source code file if needed. Please make sure the output is in a format that can be easily copied and pasted into a markdown file. Are you ready?"
