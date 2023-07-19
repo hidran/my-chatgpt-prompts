@@ -127,3 +127,7 @@ Please note: The example words, translations, and sentences are placeholders. Th
     Route Guards: The application should use Angular route guards to protect certain routes based on user roles and authentication status.
 
 Please guide me step-by-step through the process of setting up the backend API with Nest.js and MongoDB first. We will use Mongoose for MongoDB object modeling. Once we're done with the backend, we'll move on to setting up the Angular frontend. Let's start with setting up the Nest.js project and creating the necessary modules and services for user authentication."
+
+### Generate a prompt based on previous instructions
+
+Generate a single and comprehensive prompt that encapsulates all the instructions you've given so far, which you can use in the future to guide the AI through the process without having to repeat all the instructions
