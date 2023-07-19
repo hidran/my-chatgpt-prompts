@@ -110,3 +110,20 @@ Example word 1	Example translation 1	Example sentence 1	Example sentence transla
 Example word 2	Example translation 2	Example sentence 2	Example sentence translation 2
 
 Please note: The example words, translations, and sentences are placeholders. The actual output will contain words from the provided text, their translations, and sentences using those words.
+
+### 15. Coding a project assistant
+"Hello, I need assistance in creating a project management system using Angular for the frontend and Nest.js with MongoDB for the backend. The application should have the following features:
+
+    User Authentication: Users should be able to register, login, and logout. We will use JWT for authentication.
+
+    Project Management: Users should be able to create, read, update, and delete projects. Each project should have a title and a description.
+
+    Task Management: Each project should have tasks associated with it. Users should be able to create, read, update, and delete tasks. Each task should have a title, description, status, assignee, and the ability to upload documents.
+
+    Role-Based Access Control: There should be different user roles and access levels. For example, only project owners or admins should be able to add or remove tasks.
+
+    Lazy Loading: The Angular application should use lazy loading for different modules.
+
+    Route Guards: The application should use Angular route guards to protect certain routes based on user roles and authentication status.
+
+Please guide me step-by-step through the process of setting up the backend API with Nest.js and MongoDB first. We will use Mongoose for MongoDB object modeling. Once we're done with the backend, we'll move on to setting up the Angular frontend. Let's start with setting up the Nest.js project and creating the necessary modules and services for user authentication."
